@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/infinityriver/task-tracker.git/static/css/main.3e8ff061.css",
+    "main.js": "/infinityriver/task-tracker.git/static/js/main.b91898d0.js",
+    "static/js/453.11ec2e8c.chunk.js": "/infinityriver/task-tracker.git/static/js/453.11ec2e8c.chunk.js",
+    "index.html": "/infinityriver/task-tracker.git/index.html",
+    "main.3e8ff061.css.map": "/infinityriver/task-tracker.git/static/css/main.3e8ff061.css.map",
+    "main.b91898d0.js.map": "/infinityriver/task-tracker.git/static/js/main.b91898d0.js.map",
+    "453.11ec2e8c.chunk.js.map": "/infinityriver/task-tracker.git/static/js/453.11ec2e8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e8ff061.css",
+    "static/js/main.b91898d0.js"
+  ]
+}
